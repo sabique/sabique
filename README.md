@@ -6,7 +6,7 @@
 I'm Sabique, a Software Engineer from India.
 
 More about me:
-- :rocket: I’m currently working at [BOLD](https://www.bold.com/) as Senior Software Engineer.
+- :rocket: I’m currently working at [Salesforce](https://www.salesforce.com) as a Software Engineer. Previously worked at [BOLD](https://www.bold.com/).
 - 💬 I'm a backend, system design & database enthusiast.
 - 📫  Send me an [email](mailto:sabiquekhan@gmail.com) or a DM on [Twitter](https://www.twitter.com/sabiqueakhan) if you want to contact me.
 <br/>
